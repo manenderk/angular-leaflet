@@ -1,3 +1,20 @@
 {
-	"liveServer.settings.root": "/dist/map-leaflet"
+  "liveServer.settings.root": "/dist/map-leaflet",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#2bd3f7",
+    "activityBar.activeBorder": "#f609cc",
+    "activityBar.background": "#2bd3f7",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#f609cc",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#09bfe6",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#0796b5",
+    "titleBar.activeBackground": "#09bfe6",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#09bfe699",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#09bfe6"
 }
