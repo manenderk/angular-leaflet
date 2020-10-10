@@ -1,0 +1,17 @@
+.lat-lan {
+  position: fixed;
+  width: 200px;
+  top: 10px;
+  right: 10px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+.search-box {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 300px;
+}

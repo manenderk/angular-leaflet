@@ -1,0 +1,10 @@
+<div class="map"
+  *ngIf="leafletMapOptions"
+  leaflet
+  [leafletOptions]="leafletMapOptions"
+  [(leafletCenter)]="mapData.center"
+>
+  <div *ngIf="mapData?.userPositionMarkerLayer"
+    [leafletLayer]="mapData.userPositionMarkerLayer"
+  ></div>
+</div>
